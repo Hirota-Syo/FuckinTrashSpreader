@@ -1,0 +1,3 @@
+[submodule "FuckinTrashSpreader/libs"]
+	path = FuckinTrashSpreader/libs
+	url = https://github.com/Hirota-Syo/libs.git
